@@ -1,0 +1,10 @@
+University Research Analytics Dashboard
+SQL and Python Reconciliation Report
+================================================
+
+Checks performed: 421
+Passed checks: 421
+Failed checks: 0
+Overall status: PASSED
+
+All compared Python and SQL metrics match.

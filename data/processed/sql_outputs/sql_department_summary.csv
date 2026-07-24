@@ -1,0 +1,21 @@
+college,department,total_proposals,total_requested_funding,total_awarded_funding,awarded_proposals,decided_proposals,pending_proposals,average_decision_time_days,active_principal_investigators,proposal_success_rate,average_award_amount
+College of Arts and Sciences,Biology,156,82848000.0,28518424.48,68,134,17,174.1,16,50.75,419388.6
+College of Education,Educational Leadership,115,67590000.0,26140275.18,54,96,17,170.04,10,56.25,484079.17
+College of Engineering,Electrical Engineering,138,94581000.0,25490581.68,51,115,16,157.09,11,44.35,499815.33
+College of Agriculture,Plant and Soil Sciences,137,85509000.0,25466196.11,58,112,12,166.95,11,51.79,439072.35
+College of Medicine,Public Health,146,85496000.0,23498984.0,51,119,21,167.75,13,42.86,460764.39
+College of Education,Curriculum and Instruction,66,45673000.0,20660161.53,33,59,5,172.58,7,55.93,626065.5
+College of Arts and Sciences,Chemistry,106,56348000.0,19871750.76,50,100,6,161.86,10,50.0,397435.02
+College of Medicine,Neuroscience,121,68495000.0,19852131.16,45,105,10,171.07,12,42.86,441158.47
+College of Engineering,Civil Engineering,124,74331000.0,19823777.53,46,101,17,171.32,12,45.54,430951.69
+College of Engineering,Computer Science,125,63834000.0,19212114.77,50,106,17,141.34,12,47.17,384242.3
+College of Medicine,Biomedical Sciences,128,65155000.0,17267321.54,49,113,12,156.98,12,43.36,352394.32
+College of Arts and Sciences,Physics,100,69664000.0,16752364.4,41,88,10,178.38,9,46.59,408594.25
+College of Engineering,Mechanical Engineering,122,63933000.0,16386586.14,40,104,13,165.56,11,38.46,409664.65
+College of Agriculture,Agricultural Economics,90,52242000.0,15458380.7,38,78,8,169.19,6,48.72,406799.49
+College of Business,Finance,61,33657000.0,12934736.05,28,56,5,176.91,5,50.0,461954.86
+College of Medicine,Internal Medicine,75,41800000.0,10394505.02,28,60,12,130.77,6,46.67,371232.32
+College of Arts and Sciences,Psychology,67,34888000.0,8250971.36,26,57,7,171.88,6,45.61,317345.05
+College of Business,Management,31,19035000.0,8225072.89,14,27,4,171.74,2,51.85,587505.21
+College of Agriculture,Animal Sciences,61,33790000.0,7767436.73,17,50,9,155.72,6,34.0,456908.04
+College of Business,Marketing,31,18618000.0,4198428.12,11,23,6,150.35,3,47.83,381675.28

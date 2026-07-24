@@ -1,0 +1,7 @@
+college,total_proposals,total_requested_funding,total_awarded_funding,awarded_proposals,decided_proposals,pending_proposals,average_decision_time_days,active_principal_investigators,proposal_success_rate,average_award_amount
+College of Engineering,509,296679000.0,80913060.12,187,426,63,158.61,46,43.9,432690.16
+College of Arts and Sciences,429,243748000.0,73393511.0,185,379,40,171.53,41,48.81,396721.68
+College of Medicine,470,260946000.0,71012941.72,173,397,55,159.97,43,43.58,410479.43
+College of Agriculture,288,171541000.0,48692013.54,113,240,29,165.34,23,47.08,430902.77
+College of Education,181,113263000.0,46800436.71,87,155,22,171.01,17,56.13,537936.05
+College of Business,123,71310000.0,25358237.06,53,106,15,169.83,10,50.0,478457.3

@@ -1,0 +1,422 @@
+comparison,key,metric,python_value,sql_value,difference,status
+Executive KPIs,All Records,total_proposals,2000.0,2000.0,0.0,PASS
+Executive KPIs,All Records,total_requested_funding,1157487000.0,1157487000.0,0.0,PASS
+Executive KPIs,All Records,total_awarded_funding,346170200.15,346170200.15,0.0,PASS
+Executive KPIs,All Records,awarded_proposal_count,798.0,798.0,0.0,PASS
+Executive KPIs,All Records,decided_proposal_count,1703.0,1703.0,0.0,PASS
+Executive KPIs,All Records,pending_proposal_count,224.0,224.0,0.0,PASS
+Executive KPIs,All Records,withdrawn_proposal_count,73.0,73.0,0.0,PASS
+Executive KPIs,All Records,proposal_success_rate,46.86,46.86,0.0,PASS
+Executive KPIs,All Records,average_award_amount,433797.24,433797.24,0.0,PASS
+Executive KPIs,All Records,average_decision_time,164.58,164.58,0.0,PASS
+Executive KPIs,All Records,active_principal_investigators,180.0,180.0,0.0,PASS
+Fiscal Year Summary,2022,total_proposals,492.0,492.0,0.0,PASS
+Fiscal Year Summary,2022,total_requested_funding,286340000.0,286340000.0,0.0,PASS
+Fiscal Year Summary,2022,total_awarded_funding,85062470.88,85062470.88,0.0,PASS
+Fiscal Year Summary,2022,awarded_proposals,200.0,200.0,0.0,PASS
+Fiscal Year Summary,2022,decided_proposals,425.0,425.0,0.0,PASS
+Fiscal Year Summary,2022,pending_proposals,53.0,53.0,0.0,PASS
+Fiscal Year Summary,2022,average_decision_time_days,163.62,163.62,0.0,PASS
+Fiscal Year Summary,2022,active_principal_investigators,163.0,163.0,0.0,PASS
+Fiscal Year Summary,2022,proposal_success_rate,47.06,47.06,0.0,PASS
+Fiscal Year Summary,2022,average_award_amount,425312.35,425312.35,0.0,PASS
+Fiscal Year Summary,2023,total_proposals,465.0,465.0,0.0,PASS
+Fiscal Year Summary,2023,total_requested_funding,269658000.0,269658000.0,0.0,PASS
+Fiscal Year Summary,2023,total_awarded_funding,76128788.48,76128788.48,0.0,PASS
+Fiscal Year Summary,2023,awarded_proposals,170.0,170.0,0.0,PASS
+Fiscal Year Summary,2023,decided_proposals,393.0,393.0,0.0,PASS
+Fiscal Year Summary,2023,pending_proposals,57.0,57.0,0.0,PASS
+Fiscal Year Summary,2023,average_decision_time_days,170.79,170.79,0.0,PASS
+Fiscal Year Summary,2023,active_principal_investigators,165.0,165.0,0.0,PASS
+Fiscal Year Summary,2023,proposal_success_rate,43.26,43.26,0.0,PASS
+Fiscal Year Summary,2023,average_award_amount,447816.4,447816.4,0.0,PASS
+Fiscal Year Summary,2024,total_proposals,477.0,477.0,0.0,PASS
+Fiscal Year Summary,2024,total_requested_funding,264474000.0,264474000.0,0.0,PASS
+Fiscal Year Summary,2024,total_awarded_funding,80382964.84,80382964.84,0.0,PASS
+Fiscal Year Summary,2024,awarded_proposals,193.0,193.0,0.0,PASS
+Fiscal Year Summary,2024,decided_proposals,408.0,408.0,0.0,PASS
+Fiscal Year Summary,2024,pending_proposals,52.0,52.0,0.0,PASS
+Fiscal Year Summary,2024,average_decision_time_days,165.61,165.61,0.0,PASS
+Fiscal Year Summary,2024,active_principal_investigators,170.0,170.0,0.0,PASS
+Fiscal Year Summary,2024,proposal_success_rate,47.3,47.3,0.0,PASS
+Fiscal Year Summary,2024,average_award_amount,416492.05,416492.05,0.0,PASS
+Fiscal Year Summary,2025,total_proposals,476.0,476.0,0.0,PASS
+Fiscal Year Summary,2025,total_requested_funding,282143000.0,282143000.0,0.0,PASS
+Fiscal Year Summary,2025,total_awarded_funding,86934347.69,86934347.69,0.0,PASS
+Fiscal Year Summary,2025,awarded_proposals,198.0,198.0,0.0,PASS
+Fiscal Year Summary,2025,decided_proposals,407.0,407.0,0.0,PASS
+Fiscal Year Summary,2025,pending_proposals,46.0,46.0,0.0,PASS
+Fiscal Year Summary,2025,average_decision_time_days,160.27,160.27,0.0,PASS
+Fiscal Year Summary,2025,active_principal_investigators,165.0,165.0,0.0,PASS
+Fiscal Year Summary,2025,proposal_success_rate,48.65,48.65,0.0,PASS
+Fiscal Year Summary,2025,average_award_amount,439062.36,439062.36,0.0,PASS
+Fiscal Year Summary,2026,total_proposals,90.0,90.0,0.0,PASS
+Fiscal Year Summary,2026,total_requested_funding,54872000.0,54872000.0,0.0,PASS
+Fiscal Year Summary,2026,total_awarded_funding,17661628.26,17661628.26,0.0,PASS
+Fiscal Year Summary,2026,awarded_proposals,37.0,37.0,0.0,PASS
+Fiscal Year Summary,2026,decided_proposals,70.0,70.0,0.0,PASS
+Fiscal Year Summary,2026,pending_proposals,16.0,16.0,0.0,PASS
+Fiscal Year Summary,2026,average_decision_time_days,154.51,154.51,0.0,PASS
+Fiscal Year Summary,2026,active_principal_investigators,68.0,68.0,0.0,PASS
+Fiscal Year Summary,2026,proposal_success_rate,52.86,52.86,0.0,PASS
+Fiscal Year Summary,2026,average_award_amount,477341.3,477341.3,0.0,PASS
+College Summary,College of Agriculture,total_proposals,288.0,288.0,0.0,PASS
+College Summary,College of Agriculture,total_requested_funding,171541000.0,171541000.0,0.0,PASS
+College Summary,College of Agriculture,total_awarded_funding,48692013.54,48692013.54,0.0,PASS
+College Summary,College of Agriculture,awarded_proposals,113.0,113.0,0.0,PASS
+College Summary,College of Agriculture,decided_proposals,240.0,240.0,0.0,PASS
+College Summary,College of Agriculture,pending_proposals,29.0,29.0,0.0,PASS
+College Summary,College of Agriculture,average_decision_time_days,165.34,165.34,0.0,PASS
+College Summary,College of Agriculture,active_principal_investigators,23.0,23.0,0.0,PASS
+College Summary,College of Agriculture,proposal_success_rate,47.08,47.08,0.0,PASS
+College Summary,College of Agriculture,average_award_amount,430902.77,430902.77,0.0,PASS
+College Summary,College of Arts and Sciences,total_proposals,429.0,429.0,0.0,PASS
+College Summary,College of Arts and Sciences,total_requested_funding,243748000.0,243748000.0,0.0,PASS
+College Summary,College of Arts and Sciences,total_awarded_funding,73393511.0,73393511.0,0.0,PASS
+College Summary,College of Arts and Sciences,awarded_proposals,185.0,185.0,0.0,PASS
+College Summary,College of Arts and Sciences,decided_proposals,379.0,379.0,0.0,PASS
+College Summary,College of Arts and Sciences,pending_proposals,40.0,40.0,0.0,PASS
+College Summary,College of Arts and Sciences,average_decision_time_days,171.53,171.53,0.0,PASS
+College Summary,College of Arts and Sciences,active_principal_investigators,41.0,41.0,0.0,PASS
+College Summary,College of Arts and Sciences,proposal_success_rate,48.81,48.81,0.0,PASS
+College Summary,College of Arts and Sciences,average_award_amount,396721.68,396721.68,0.0,PASS
+College Summary,College of Business,total_proposals,123.0,123.0,0.0,PASS
+College Summary,College of Business,total_requested_funding,71310000.0,71310000.0,0.0,PASS
+College Summary,College of Business,total_awarded_funding,25358237.06,25358237.06,0.0,PASS
+College Summary,College of Business,awarded_proposals,53.0,53.0,0.0,PASS
+College Summary,College of Business,decided_proposals,106.0,106.0,0.0,PASS
+College Summary,College of Business,pending_proposals,15.0,15.0,0.0,PASS
+College Summary,College of Business,average_decision_time_days,169.83,169.83,0.0,PASS
+College Summary,College of Business,active_principal_investigators,10.0,10.0,0.0,PASS
+College Summary,College of Business,proposal_success_rate,50.0,50.0,0.0,PASS
+College Summary,College of Business,average_award_amount,478457.3,478457.3,0.0,PASS
+College Summary,College of Education,total_proposals,181.0,181.0,0.0,PASS
+College Summary,College of Education,total_requested_funding,113263000.0,113263000.0,0.0,PASS
+College Summary,College of Education,total_awarded_funding,46800436.71,46800436.71,0.0,PASS
+College Summary,College of Education,awarded_proposals,87.0,87.0,0.0,PASS
+College Summary,College of Education,decided_proposals,155.0,155.0,0.0,PASS
+College Summary,College of Education,pending_proposals,22.0,22.0,0.0,PASS
+College Summary,College of Education,average_decision_time_days,171.01,171.01,0.0,PASS
+College Summary,College of Education,active_principal_investigators,17.0,17.0,0.0,PASS
+College Summary,College of Education,proposal_success_rate,56.13,56.13,0.0,PASS
+College Summary,College of Education,average_award_amount,537936.05,537936.05,0.0,PASS
+College Summary,College of Engineering,total_proposals,509.0,509.0,0.0,PASS
+College Summary,College of Engineering,total_requested_funding,296679000.0,296679000.0,0.0,PASS
+College Summary,College of Engineering,total_awarded_funding,80913060.12,80913060.12,0.0,PASS
+College Summary,College of Engineering,awarded_proposals,187.0,187.0,0.0,PASS
+College Summary,College of Engineering,decided_proposals,426.0,426.0,0.0,PASS
+College Summary,College of Engineering,pending_proposals,63.0,63.0,0.0,PASS
+College Summary,College of Engineering,average_decision_time_days,158.61,158.61,0.0,PASS
+College Summary,College of Engineering,active_principal_investigators,46.0,46.0,0.0,PASS
+College Summary,College of Engineering,proposal_success_rate,43.9,43.9,0.0,PASS
+College Summary,College of Engineering,average_award_amount,432690.16,432690.16,0.0,PASS
+College Summary,College of Medicine,total_proposals,470.0,470.0,0.0,PASS
+College Summary,College of Medicine,total_requested_funding,260946000.0,260946000.0,0.0,PASS
+College Summary,College of Medicine,total_awarded_funding,71012941.72,71012941.72,0.0,PASS
+College Summary,College of Medicine,awarded_proposals,173.0,173.0,0.0,PASS
+College Summary,College of Medicine,decided_proposals,397.0,397.0,0.0,PASS
+College Summary,College of Medicine,pending_proposals,55.0,55.0,0.0,PASS
+College Summary,College of Medicine,average_decision_time_days,159.97,159.97,0.0,PASS
+College Summary,College of Medicine,active_principal_investigators,43.0,43.0,0.0,PASS
+College Summary,College of Medicine,proposal_success_rate,43.58,43.58,0.0,PASS
+College Summary,College of Medicine,average_award_amount,410479.43,410479.43,0.0,PASS
+Sponsor Summary,Federal | Centers for Disease Control and Prevention,total_proposals,88.0,88.0,0.0,PASS
+Sponsor Summary,Federal | Centers for Disease Control and Prevention,total_requested_funding,52521000.0,52521000.0,0.0,PASS
+Sponsor Summary,Federal | Centers for Disease Control and Prevention,total_awarded_funding,12666153.51,12666153.51,0.0,PASS
+Sponsor Summary,Federal | Centers for Disease Control and Prevention,awarded_proposals,30.0,30.0,0.0,PASS
+Sponsor Summary,Federal | Centers for Disease Control and Prevention,decided_proposals,70.0,70.0,0.0,PASS
+Sponsor Summary,Federal | Centers for Disease Control and Prevention,pending_proposals,11.0,11.0,0.0,PASS
+Sponsor Summary,Federal | Centers for Disease Control and Prevention,average_decision_time_days,155.24,155.24,0.0,PASS
+Sponsor Summary,Federal | Centers for Disease Control and Prevention,active_principal_investigators,70.0,70.0,0.0,PASS
+Sponsor Summary,Federal | Centers for Disease Control and Prevention,proposal_success_rate,42.86,42.86,0.0,PASS
+Sponsor Summary,Federal | Centers for Disease Control and Prevention,average_award_amount,422205.12,422205.12,0.0,PASS
+Sponsor Summary,Federal | Department of Agriculture,total_proposals,125.0,125.0,0.0,PASS
+Sponsor Summary,Federal | Department of Agriculture,total_requested_funding,80813000.0,80813000.0,0.0,PASS
+Sponsor Summary,Federal | Department of Agriculture,total_awarded_funding,28566065.89,28566065.89,0.0,PASS
+Sponsor Summary,Federal | Department of Agriculture,awarded_proposals,50.0,50.0,0.0,PASS
+Sponsor Summary,Federal | Department of Agriculture,decided_proposals,107.0,107.0,0.0,PASS
+Sponsor Summary,Federal | Department of Agriculture,pending_proposals,12.0,12.0,0.0,PASS
+Sponsor Summary,Federal | Department of Agriculture,average_decision_time_days,165.45,165.45,0.0,PASS
+Sponsor Summary,Federal | Department of Agriculture,active_principal_investigators,90.0,90.0,0.0,PASS
+Sponsor Summary,Federal | Department of Agriculture,proposal_success_rate,46.73,46.73,0.0,PASS
+Sponsor Summary,Federal | Department of Agriculture,average_award_amount,571321.32,571321.32,0.0,PASS
+Sponsor Summary,Federal | Department of Defense,total_proposals,134.0,134.0,0.0,PASS
+Sponsor Summary,Federal | Department of Defense,total_requested_funding,86998000.0,86998000.0,0.0,PASS
+Sponsor Summary,Federal | Department of Defense,total_awarded_funding,30916148.62,30916148.62,0.0,PASS
+Sponsor Summary,Federal | Department of Defense,awarded_proposals,51.0,51.0,0.0,PASS
+Sponsor Summary,Federal | Department of Defense,decided_proposals,112.0,112.0,0.0,PASS
+Sponsor Summary,Federal | Department of Defense,pending_proposals,18.0,18.0,0.0,PASS
+Sponsor Summary,Federal | Department of Defense,average_decision_time_days,162.25,162.25,0.0,PASS
+Sponsor Summary,Federal | Department of Defense,active_principal_investigators,87.0,87.0,0.0,PASS
+Sponsor Summary,Federal | Department of Defense,proposal_success_rate,45.54,45.54,0.0,PASS
+Sponsor Summary,Federal | Department of Defense,average_award_amount,606198.99,606198.99,0.0,PASS
+Sponsor Summary,Federal | Department of Education,total_proposals,82.0,82.0,0.0,PASS
+Sponsor Summary,Federal | Department of Education,total_requested_funding,66657000.0,66657000.0,0.0,PASS
+Sponsor Summary,Federal | Department of Education,total_awarded_funding,16185488.94,16185488.94,0.0,PASS
+Sponsor Summary,Federal | Department of Education,awarded_proposals,29.0,29.0,0.0,PASS
+Sponsor Summary,Federal | Department of Education,decided_proposals,69.0,69.0,0.0,PASS
+Sponsor Summary,Federal | Department of Education,pending_proposals,8.0,8.0,0.0,PASS
+Sponsor Summary,Federal | Department of Education,average_decision_time_days,157.55,157.55,0.0,PASS
+Sponsor Summary,Federal | Department of Education,active_principal_investigators,68.0,68.0,0.0,PASS
+Sponsor Summary,Federal | Department of Education,proposal_success_rate,42.03,42.03,0.0,PASS
+Sponsor Summary,Federal | Department of Education,average_award_amount,558120.31,558120.31,0.0,PASS
+Sponsor Summary,Federal | Department of Energy,total_proposals,165.0,165.0,0.0,PASS
+Sponsor Summary,Federal | Department of Energy,total_requested_funding,122989000.0,122989000.0,0.0,PASS
+Sponsor Summary,Federal | Department of Energy,total_awarded_funding,30809762.98,30809762.98,0.0,PASS
+Sponsor Summary,Federal | Department of Energy,awarded_proposals,51.0,51.0,0.0,PASS
+Sponsor Summary,Federal | Department of Energy,decided_proposals,145.0,145.0,0.0,PASS
+Sponsor Summary,Federal | Department of Energy,pending_proposals,13.0,13.0,0.0,PASS
+Sponsor Summary,Federal | Department of Energy,average_decision_time_days,162.86,162.86,0.0,PASS
+Sponsor Summary,Federal | Department of Energy,active_principal_investigators,100.0,100.0,0.0,PASS
+Sponsor Summary,Federal | Department of Energy,proposal_success_rate,35.17,35.17,0.0,PASS
+Sponsor Summary,Federal | Department of Energy,average_award_amount,604113.0,604113.0,0.0,PASS
+Sponsor Summary,Federal | National Aeronautics and Space Administration,total_proposals,63.0,63.0,0.0,PASS
+Sponsor Summary,Federal | National Aeronautics and Space Administration,total_requested_funding,45056000.0,45056000.0,0.0,PASS
+Sponsor Summary,Federal | National Aeronautics and Space Administration,total_awarded_funding,14668936.62,14668936.62,0.0,PASS
+Sponsor Summary,Federal | National Aeronautics and Space Administration,awarded_proposals,28.0,28.0,0.0,PASS
+Sponsor Summary,Federal | National Aeronautics and Space Administration,decided_proposals,51.0,51.0,0.0,PASS
+Sponsor Summary,Federal | National Aeronautics and Space Administration,pending_proposals,8.0,8.0,0.0,PASS
+Sponsor Summary,Federal | National Aeronautics and Space Administration,average_decision_time_days,168.55,168.55,0.0,PASS
+Sponsor Summary,Federal | National Aeronautics and Space Administration,active_principal_investigators,52.0,52.0,0.0,PASS
+Sponsor Summary,Federal | National Aeronautics and Space Administration,proposal_success_rate,54.9,54.9,0.0,PASS
+Sponsor Summary,Federal | National Aeronautics and Space Administration,average_award_amount,523890.59,523890.59,0.0,PASS
+Sponsor Summary,Federal | National Institutes of Health,total_proposals,342.0,342.0,0.0,PASS
+Sponsor Summary,Federal | National Institutes of Health,total_requested_funding,264153000.0,264153000.0,0.0,PASS
+Sponsor Summary,Federal | National Institutes of Health,total_awarded_funding,71060067.94,71060067.94,0.0,PASS
+Sponsor Summary,Federal | National Institutes of Health,awarded_proposals,133.0,133.0,0.0,PASS
+Sponsor Summary,Federal | National Institutes of Health,decided_proposals,290.0,290.0,0.0,PASS
+Sponsor Summary,Federal | National Institutes of Health,pending_proposals,45.0,45.0,0.0,PASS
+Sponsor Summary,Federal | National Institutes of Health,average_decision_time_days,165.84,165.84,0.0,PASS
+Sponsor Summary,Federal | National Institutes of Health,active_principal_investigators,148.0,148.0,0.0,PASS
+Sponsor Summary,Federal | National Institutes of Health,proposal_success_rate,45.86,45.86,0.0,PASS
+Sponsor Summary,Federal | National Institutes of Health,average_award_amount,534286.23,534286.23,0.0,PASS
+Sponsor Summary,Federal | National Science Foundation,total_proposals,280.0,280.0,0.0,PASS
+Sponsor Summary,Federal | National Science Foundation,total_requested_funding,229463000.0,229463000.0,0.0,PASS
+Sponsor Summary,Federal | National Science Foundation,total_awarded_funding,54826297.45,54826297.45,0.0,PASS
+Sponsor Summary,Federal | National Science Foundation,awarded_proposals,90.0,90.0,0.0,PASS
+Sponsor Summary,Federal | National Science Foundation,decided_proposals,234.0,234.0,0.0,PASS
+Sponsor Summary,Federal | National Science Foundation,pending_proposals,38.0,38.0,0.0,PASS
+Sponsor Summary,Federal | National Science Foundation,average_decision_time_days,168.18,168.18,0.0,PASS
+Sponsor Summary,Federal | National Science Foundation,active_principal_investigators,144.0,144.0,0.0,PASS
+Sponsor Summary,Federal | National Science Foundation,proposal_success_rate,38.46,38.46,0.0,PASS
+Sponsor Summary,Federal | National Science Foundation,average_award_amount,609181.08,609181.08,0.0,PASS
+Sponsor Summary,Foundation | Community Health Foundation,total_proposals,62.0,62.0,0.0,PASS
+Sponsor Summary,Foundation | Community Health Foundation,total_requested_funding,14924000.0,14924000.0,0.0,PASS
+Sponsor Summary,Foundation | Community Health Foundation,total_awarded_funding,5491404.97,5491404.97,0.0,PASS
+Sponsor Summary,Foundation | Community Health Foundation,awarded_proposals,21.0,21.0,0.0,PASS
+Sponsor Summary,Foundation | Community Health Foundation,decided_proposals,49.0,49.0,0.0,PASS
+Sponsor Summary,Foundation | Community Health Foundation,pending_proposals,8.0,8.0,0.0,PASS
+Sponsor Summary,Foundation | Community Health Foundation,average_decision_time_days,155.18,155.18,0.0,PASS
+Sponsor Summary,Foundation | Community Health Foundation,active_principal_investigators,52.0,52.0,0.0,PASS
+Sponsor Summary,Foundation | Community Health Foundation,proposal_success_rate,42.86,42.86,0.0,PASS
+Sponsor Summary,Foundation | Community Health Foundation,average_award_amount,261495.47,261495.47,0.0,PASS
+Sponsor Summary,Foundation | Education Advancement Foundation,total_proposals,43.0,43.0,0.0,PASS
+Sponsor Summary,Foundation | Education Advancement Foundation,total_requested_funding,10703000.0,10703000.0,0.0,PASS
+Sponsor Summary,Foundation | Education Advancement Foundation,total_awarded_funding,4815618.29,4815618.29,0.0,PASS
+Sponsor Summary,Foundation | Education Advancement Foundation,awarded_proposals,20.0,20.0,0.0,PASS
+Sponsor Summary,Foundation | Education Advancement Foundation,decided_proposals,36.0,36.0,0.0,PASS
+Sponsor Summary,Foundation | Education Advancement Foundation,pending_proposals,4.0,4.0,0.0,PASS
+Sponsor Summary,Foundation | Education Advancement Foundation,average_decision_time_days,150.81,150.81,0.0,PASS
+Sponsor Summary,Foundation | Education Advancement Foundation,active_principal_investigators,37.0,37.0,0.0,PASS
+Sponsor Summary,Foundation | Education Advancement Foundation,proposal_success_rate,55.56,55.56,0.0,PASS
+Sponsor Summary,Foundation | Education Advancement Foundation,average_award_amount,240780.91,240780.91,0.0,PASS
+Sponsor Summary,Foundation | Future Science Foundation,total_proposals,70.0,70.0,0.0,PASS
+Sponsor Summary,Foundation | Future Science Foundation,total_requested_funding,16878000.0,16878000.0,0.0,PASS
+Sponsor Summary,Foundation | Future Science Foundation,total_awarded_funding,5808518.04,5808518.04,0.0,PASS
+Sponsor Summary,Foundation | Future Science Foundation,awarded_proposals,30.0,30.0,0.0,PASS
+Sponsor Summary,Foundation | Future Science Foundation,decided_proposals,62.0,62.0,0.0,PASS
+Sponsor Summary,Foundation | Future Science Foundation,pending_proposals,7.0,7.0,0.0,PASS
+Sponsor Summary,Foundation | Future Science Foundation,average_decision_time_days,163.89,163.89,0.0,PASS
+Sponsor Summary,Foundation | Future Science Foundation,active_principal_investigators,58.0,58.0,0.0,PASS
+Sponsor Summary,Foundation | Future Science Foundation,proposal_success_rate,48.39,48.39,0.0,PASS
+Sponsor Summary,Foundation | Future Science Foundation,average_award_amount,193617.27,193617.27,0.0,PASS
+Sponsor Summary,Industry | Advanced Manufacturing Solutions,total_proposals,81.0,81.0,0.0,PASS
+Sponsor Summary,Industry | Advanced Manufacturing Solutions,total_requested_funding,32038000.0,32038000.0,0.0,PASS
+Sponsor Summary,Industry | Advanced Manufacturing Solutions,total_awarded_funding,12860518.0,12860518.0,0.0,PASS
+Sponsor Summary,Industry | Advanced Manufacturing Solutions,awarded_proposals,41.0,41.0,0.0,PASS
+Sponsor Summary,Industry | Advanced Manufacturing Solutions,decided_proposals,72.0,72.0,0.0,PASS
+Sponsor Summary,Industry | Advanced Manufacturing Solutions,pending_proposals,7.0,7.0,0.0,PASS
+Sponsor Summary,Industry | Advanced Manufacturing Solutions,average_decision_time_days,185.47,185.47,0.0,PASS
+Sponsor Summary,Industry | Advanced Manufacturing Solutions,active_principal_investigators,66.0,66.0,0.0,PASS
+Sponsor Summary,Industry | Advanced Manufacturing Solutions,proposal_success_rate,56.94,56.94,0.0,PASS
+Sponsor Summary,Industry | Advanced Manufacturing Solutions,average_award_amount,313671.17,313671.17,0.0,PASS
+Sponsor Summary,Industry | Bluegrass Technology Corporation,total_proposals,96.0,96.0,0.0,PASS
+Sponsor Summary,Industry | Bluegrass Technology Corporation,total_requested_funding,38643000.0,38643000.0,0.0,PASS
+Sponsor Summary,Industry | Bluegrass Technology Corporation,total_awarded_funding,18610500.12,18610500.12,0.0,PASS
+Sponsor Summary,Industry | Bluegrass Technology Corporation,awarded_proposals,50.0,50.0,0.0,PASS
+Sponsor Summary,Industry | Bluegrass Technology Corporation,decided_proposals,81.0,81.0,0.0,PASS
+Sponsor Summary,Industry | Bluegrass Technology Corporation,pending_proposals,12.0,12.0,0.0,PASS
+Sponsor Summary,Industry | Bluegrass Technology Corporation,average_decision_time_days,169.2,169.2,0.0,PASS
+Sponsor Summary,Industry | Bluegrass Technology Corporation,active_principal_investigators,78.0,78.0,0.0,PASS
+Sponsor Summary,Industry | Bluegrass Technology Corporation,proposal_success_rate,61.73,61.73,0.0,PASS
+Sponsor Summary,Industry | Bluegrass Technology Corporation,average_award_amount,372210.0,372210.0,0.0,PASS
+Sponsor Summary,Industry | Health Innovation Partners,total_proposals,69.0,69.0,0.0,PASS
+Sponsor Summary,Industry | Health Innovation Partners,total_requested_funding,31064000.0,31064000.0,0.0,PASS
+Sponsor Summary,Industry | Health Innovation Partners,total_awarded_funding,15443740.92,15443740.92,0.0,PASS
+Sponsor Summary,Industry | Health Innovation Partners,awarded_proposals,40.0,40.0,0.0,PASS
+Sponsor Summary,Industry | Health Innovation Partners,decided_proposals,60.0,60.0,0.0,PASS
+Sponsor Summary,Industry | Health Innovation Partners,pending_proposals,7.0,7.0,0.0,PASS
+Sponsor Summary,Industry | Health Innovation Partners,average_decision_time_days,160.42,160.42,0.0,PASS
+Sponsor Summary,Industry | Health Innovation Partners,active_principal_investigators,53.0,53.0,0.0,PASS
+Sponsor Summary,Industry | Health Innovation Partners,proposal_success_rate,66.67,66.67,0.0,PASS
+Sponsor Summary,Industry | Health Innovation Partners,average_award_amount,386093.52,386093.52,0.0,PASS
+Sponsor Summary,Internal | University Research Initiative,total_proposals,43.0,43.0,0.0,PASS
+Sponsor Summary,Internal | University Research Initiative,total_requested_funding,2986000.0,2986000.0,0.0,PASS
+Sponsor Summary,Internal | University Research Initiative,total_awarded_funding,1524164.83,1524164.83,0.0,PASS
+Sponsor Summary,Internal | University Research Initiative,awarded_proposals,27.0,27.0,0.0,PASS
+Sponsor Summary,Internal | University Research Initiative,decided_proposals,40.0,40.0,0.0,PASS
+Sponsor Summary,Internal | University Research Initiative,pending_proposals,1.0,1.0,0.0,PASS
+Sponsor Summary,Internal | University Research Initiative,average_decision_time_days,165.88,165.88,0.0,PASS
+Sponsor Summary,Internal | University Research Initiative,active_principal_investigators,39.0,39.0,0.0,PASS
+Sponsor Summary,Internal | University Research Initiative,proposal_success_rate,67.5,67.5,0.0,PASS
+Sponsor Summary,Internal | University Research Initiative,average_award_amount,56450.55,56450.55,0.0,PASS
+Sponsor Summary,Nonprofit | Regional Research Alliance,total_proposals,47.0,47.0,0.0,PASS
+Sponsor Summary,Nonprofit | Regional Research Alliance,total_requested_funding,7450000.0,7450000.0,0.0,PASS
+Sponsor Summary,Nonprofit | Regional Research Alliance,total_awarded_funding,2693393.17,2693393.17,0.0,PASS
+Sponsor Summary,Nonprofit | Regional Research Alliance,awarded_proposals,18.0,18.0,0.0,PASS
+Sponsor Summary,Nonprofit | Regional Research Alliance,decided_proposals,45.0,45.0,0.0,PASS
+Sponsor Summary,Nonprofit | Regional Research Alliance,pending_proposals,2.0,2.0,0.0,PASS
+Sponsor Summary,Nonprofit | Regional Research Alliance,average_decision_time_days,169.64,169.64,0.0,PASS
+Sponsor Summary,Nonprofit | Regional Research Alliance,active_principal_investigators,44.0,44.0,0.0,PASS
+Sponsor Summary,Nonprofit | Regional Research Alliance,proposal_success_rate,40.0,40.0,0.0,PASS
+Sponsor Summary,Nonprofit | Regional Research Alliance,average_award_amount,149632.95,149632.95,0.0,PASS
+Sponsor Summary,State | State Department of Public Health,total_proposals,81.0,81.0,0.0,PASS
+Sponsor Summary,State | State Department of Public Health,total_requested_funding,18927000.0,18927000.0,0.0,PASS
+Sponsor Summary,State | State Department of Public Health,total_awarded_funding,4166560.15,4166560.15,0.0,PASS
+Sponsor Summary,State | State Department of Public Health,awarded_proposals,27.0,27.0,0.0,PASS
+Sponsor Summary,State | State Department of Public Health,decided_proposals,68.0,68.0,0.0,PASS
+Sponsor Summary,State | State Department of Public Health,pending_proposals,10.0,10.0,0.0,PASS
+Sponsor Summary,State | State Department of Public Health,average_decision_time_days,165.12,165.12,0.0,PASS
+Sponsor Summary,State | State Department of Public Health,active_principal_investigators,64.0,64.0,0.0,PASS
+Sponsor Summary,State | State Department of Public Health,proposal_success_rate,39.71,39.71,0.0,PASS
+Sponsor Summary,State | State Department of Public Health,average_award_amount,154317.04,154317.04,0.0,PASS
+Sponsor Summary,State | State Research Council,total_proposals,129.0,129.0,0.0,PASS
+Sponsor Summary,State | State Research Council,total_requested_funding,35224000.0,35224000.0,0.0,PASS
+Sponsor Summary,State | State Research Council,total_awarded_funding,15056859.71,15056859.71,0.0,PASS
+Sponsor Summary,State | State Research Council,awarded_proposals,62.0,62.0,0.0,PASS
+Sponsor Summary,State | State Research Council,decided_proposals,112.0,112.0,0.0,PASS
+Sponsor Summary,State | State Research Council,pending_proposals,13.0,13.0,0.0,PASS
+Sponsor Summary,State | State Research Council,average_decision_time_days,157.43,157.43,0.0,PASS
+Sponsor Summary,State | State Research Council,active_principal_investigators,89.0,89.0,0.0,PASS
+Sponsor Summary,State | State Research Council,proposal_success_rate,55.36,55.36,0.0,PASS
+Sponsor Summary,State | State Research Council,average_award_amount,242852.58,242852.58,0.0,PASS
+Research Area Summary,Advanced Manufacturing,total_proposals,97.0,97.0,0.0,PASS
+Research Area Summary,Advanced Manufacturing,total_requested_funding,47844000.0,47844000.0,0.0,PASS
+Research Area Summary,Advanced Manufacturing,total_awarded_funding,17573207.75,17573207.75,0.0,PASS
+Research Area Summary,Advanced Manufacturing,awarded_proposals,44.0,44.0,0.0,PASS
+Research Area Summary,Advanced Manufacturing,decided_proposals,80.0,80.0,0.0,PASS
+Research Area Summary,Advanced Manufacturing,pending_proposals,12.0,12.0,0.0,PASS
+Research Area Summary,Advanced Manufacturing,average_decision_time_days,153.48,153.47,-0.01,PASS
+Research Area Summary,Advanced Manufacturing,active_principal_investigators,40.0,40.0,0.0,PASS
+Research Area Summary,Advanced Manufacturing,proposal_success_rate,55.0,55.0,0.0,PASS
+Research Area Summary,Advanced Manufacturing,average_award_amount,399391.09,399391.09,0.0,PASS
+Research Area Summary,Agriculture,total_proposals,75.0,75.0,0.0,PASS
+Research Area Summary,Agriculture,total_requested_funding,36356000.0,36356000.0,0.0,PASS
+Research Area Summary,Agriculture,total_awarded_funding,10105383.65,10105383.65,0.0,PASS
+Research Area Summary,Agriculture,awarded_proposals,32.0,32.0,0.0,PASS
+Research Area Summary,Agriculture,decided_proposals,64.0,64.0,0.0,PASS
+Research Area Summary,Agriculture,pending_proposals,7.0,7.0,0.0,PASS
+Research Area Summary,Agriculture,average_decision_time_days,162.77,162.77,0.0,PASS
+Research Area Summary,Agriculture,active_principal_investigators,23.0,23.0,0.0,PASS
+Research Area Summary,Agriculture,proposal_success_rate,50.0,50.0,0.0,PASS
+Research Area Summary,Agriculture,average_award_amount,315793.24,315793.24,0.0,PASS
+Research Area Summary,Artificial Intelligence,total_proposals,100.0,100.0,0.0,PASS
+Research Area Summary,Artificial Intelligence,total_requested_funding,55095000.0,55095000.0,0.0,PASS
+Research Area Summary,Artificial Intelligence,total_awarded_funding,14456822.29,14456822.29,0.0,PASS
+Research Area Summary,Artificial Intelligence,awarded_proposals,32.0,32.0,0.0,PASS
+Research Area Summary,Artificial Intelligence,decided_proposals,81.0,81.0,0.0,PASS
+Research Area Summary,Artificial Intelligence,pending_proposals,14.0,14.0,0.0,PASS
+Research Area Summary,Artificial Intelligence,average_decision_time_days,163.37,163.37,0.0,PASS
+Research Area Summary,Artificial Intelligence,active_principal_investigators,38.0,38.0,0.0,PASS
+Research Area Summary,Artificial Intelligence,proposal_success_rate,39.51,39.51,0.0,PASS
+Research Area Summary,Artificial Intelligence,average_award_amount,451775.7,451775.7,0.0,PASS
+Research Area Summary,Biomedical Research,total_proposals,205.0,205.0,0.0,PASS
+Research Area Summary,Biomedical Research,total_requested_funding,103492000.0,103492000.0,0.0,PASS
+Research Area Summary,Biomedical Research,total_awarded_funding,35466220.34,35466220.34,0.0,PASS
+Research Area Summary,Biomedical Research,awarded_proposals,85.0,85.0,0.0,PASS
+Research Area Summary,Biomedical Research,decided_proposals,171.0,171.0,0.0,PASS
+Research Area Summary,Biomedical Research,pending_proposals,26.0,26.0,0.0,PASS
+Research Area Summary,Biomedical Research,average_decision_time_days,154.77,154.77,0.0,PASS
+Research Area Summary,Biomedical Research,active_principal_investigators,77.0,77.0,0.0,PASS
+Research Area Summary,Biomedical Research,proposal_success_rate,49.71,49.71,0.0,PASS
+Research Area Summary,Biomedical Research,average_award_amount,417249.65,417249.65,0.0,PASS
+Research Area Summary,Business and Economics,total_proposals,40.0,40.0,0.0,PASS
+Research Area Summary,Business and Economics,total_requested_funding,20107000.0,20107000.0,0.0,PASS
+Research Area Summary,Business and Economics,total_awarded_funding,8973250.17,8973250.17,0.0,PASS
+Research Area Summary,Business and Economics,awarded_proposals,21.0,21.0,0.0,PASS
+Research Area Summary,Business and Economics,decided_proposals,36.0,36.0,0.0,PASS
+Research Area Summary,Business and Economics,pending_proposals,2.0,2.0,0.0,PASS
+Research Area Summary,Business and Economics,average_decision_time_days,176.06,176.06,0.0,PASS
+Research Area Summary,Business and Economics,active_principal_investigators,10.0,10.0,0.0,PASS
+Research Area Summary,Business and Economics,proposal_success_rate,58.33,58.33,0.0,PASS
+Research Area Summary,Business and Economics,average_award_amount,427297.63,427297.63,0.0,PASS
+Research Area Summary,Data Science,total_proposals,478.0,478.0,0.0,PASS
+Research Area Summary,Data Science,total_requested_funding,291487000.0,291487000.0,0.0,PASS
+Research Area Summary,Data Science,total_awarded_funding,81614917.71,81614917.71,0.0,PASS
+Research Area Summary,Data Science,awarded_proposals,185.0,185.0,0.0,PASS
+Research Area Summary,Data Science,decided_proposals,406.0,406.0,0.0,PASS
+Research Area Summary,Data Science,pending_proposals,54.0,54.0,0.0,PASS
+Research Area Summary,Data Science,average_decision_time_days,163.93,163.93,0.0,PASS
+Research Area Summary,Data Science,active_principal_investigators,163.0,163.0,0.0,PASS
+Research Area Summary,Data Science,proposal_success_rate,45.57,45.57,0.0,PASS
+Research Area Summary,Data Science,average_award_amount,441161.72,441161.72,0.0,PASS
+Research Area Summary,Education,total_proposals,69.0,69.0,0.0,PASS
+Research Area Summary,Education,total_requested_funding,40810000.0,40810000.0,0.0,PASS
+Research Area Summary,Education,total_awarded_funding,17059162.2,17059162.2,0.0,PASS
+Research Area Summary,Education,awarded_proposals,35.0,35.0,0.0,PASS
+Research Area Summary,Education,decided_proposals,62.0,62.0,0.0,PASS
+Research Area Summary,Education,pending_proposals,6.0,6.0,0.0,PASS
+Research Area Summary,Education,average_decision_time_days,171.92,171.92,0.0,PASS
+Research Area Summary,Education,active_principal_investigators,16.0,16.0,0.0,PASS
+Research Area Summary,Education,proposal_success_rate,56.45,56.45,0.0,PASS
+Research Area Summary,Education,average_award_amount,487404.63,487404.63,0.0,PASS
+Research Area Summary,Environmental Science,total_proposals,250.0,250.0,0.0,PASS
+Research Area Summary,Environmental Science,total_requested_funding,140409000.0,140409000.0,0.0,PASS
+Research Area Summary,Environmental Science,total_awarded_funding,37029052.56,37029052.56,0.0,PASS
+Research Area Summary,Environmental Science,awarded_proposals,99.0,99.0,0.0,PASS
+Research Area Summary,Environmental Science,decided_proposals,213.0,213.0,0.0,PASS
+Research Area Summary,Environmental Science,pending_proposals,28.0,28.0,0.0,PASS
+Research Area Summary,Environmental Science,average_decision_time_days,170.46,170.46,0.0,PASS
+Research Area Summary,Environmental Science,active_principal_investigators,95.0,95.0,0.0,PASS
+Research Area Summary,Environmental Science,proposal_success_rate,46.48,46.48,0.0,PASS
+Research Area Summary,Environmental Science,average_award_amount,374030.83,374030.83,0.0,PASS
+Research Area Summary,Neuroscience,total_proposals,204.0,204.0,0.0,PASS
+Research Area Summary,Neuroscience,total_requested_funding,118162000.0,118162000.0,0.0,PASS
+Research Area Summary,Neuroscience,total_awarded_funding,36028743.0,36028743.0,0.0,PASS
+Research Area Summary,Neuroscience,awarded_proposals,92.0,92.0,0.0,PASS
+Research Area Summary,Neuroscience,decided_proposals,180.0,180.0,0.0,PASS
+Research Area Summary,Neuroscience,pending_proposals,20.0,20.0,0.0,PASS
+Research Area Summary,Neuroscience,average_decision_time_days,167.86,167.86,0.0,PASS
+Research Area Summary,Neuroscience,active_principal_investigators,77.0,77.0,0.0,PASS
+Research Area Summary,Neuroscience,proposal_success_rate,51.11,51.11,0.0,PASS
+Research Area Summary,Neuroscience,average_award_amount,391616.77,391616.77,0.0,PASS
+Research Area Summary,Public Health,total_proposals,117.0,117.0,0.0,PASS
+Research Area Summary,Public Health,total_requested_funding,78559000.0,78559000.0,0.0,PASS
+Research Area Summary,Public Health,total_awarded_funding,19856106.62,19856106.62,0.0,PASS
+Research Area Summary,Public Health,awarded_proposals,37.0,37.0,0.0,PASS
+Research Area Summary,Public Health,decided_proposals,95.0,95.0,0.0,PASS
+Research Area Summary,Public Health,pending_proposals,15.0,15.0,0.0,PASS
+Research Area Summary,Public Health,average_decision_time_days,159.53,159.53,0.0,PASS
+Research Area Summary,Public Health,active_principal_investigators,41.0,41.0,0.0,PASS
+Research Area Summary,Public Health,proposal_success_rate,38.95,38.95,0.0,PASS
+Research Area Summary,Public Health,average_award_amount,536651.53,536651.53,0.0,PASS
+Research Area Summary,Renewable Energy,total_proposals,172.0,172.0,0.0,PASS
+Research Area Summary,Renewable Energy,total_requested_funding,112792000.0,112792000.0,0.0,PASS
+Research Area Summary,Renewable Energy,total_awarded_funding,31034041.45,31034041.45,0.0,PASS
+Research Area Summary,Renewable Energy,awarded_proposals,58.0,58.0,0.0,PASS
+Research Area Summary,Renewable Energy,decided_proposals,149.0,149.0,0.0,PASS
+Research Area Summary,Renewable Energy,pending_proposals,16.0,16.0,0.0,PASS
+Research Area Summary,Renewable Energy,average_decision_time_days,165.68,165.68,0.0,PASS
+Research Area Summary,Renewable Energy,active_principal_investigators,64.0,64.0,0.0,PASS
+Research Area Summary,Renewable Energy,proposal_success_rate,38.93,38.93,0.0,PASS
+Research Area Summary,Renewable Energy,average_award_amount,535069.68,535069.68,0.0,PASS
+Research Area Summary,Social and Behavioral Science,total_proposals,193.0,193.0,0.0,PASS
+Research Area Summary,Social and Behavioral Science,total_requested_funding,112374000.0,112374000.0,0.0,PASS
+Research Area Summary,Social and Behavioral Science,total_awarded_funding,36973292.41,36973292.41,0.0,PASS
+Research Area Summary,Social and Behavioral Science,awarded_proposals,78.0,78.0,0.0,PASS
+Research Area Summary,Social and Behavioral Science,decided_proposals,166.0,166.0,0.0,PASS
+Research Area Summary,Social and Behavioral Science,pending_proposals,24.0,24.0,0.0,PASS
+Research Area Summary,Social and Behavioral Science,average_decision_time_days,168.48,168.48,0.0,PASS
+Research Area Summary,Social and Behavioral Science,active_principal_investigators,66.0,66.0,0.0,PASS
+Research Area Summary,Social and Behavioral Science,proposal_success_rate,46.99,46.99,0.0,PASS
+Research Area Summary,Social and Behavioral Science,average_award_amount,474016.57,474016.57,0.0,PASS

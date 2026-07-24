@@ -1,0 +1,19 @@
+sponsor_type,sponsor,total_proposals,total_requested_funding,total_awarded_funding,awarded_proposals,decided_proposals,pending_proposals,average_decision_time_days,active_principal_investigators,proposal_success_rate,average_award_amount
+Federal,National Institutes of Health,342,264153000.0,71060067.94,133,290,45,165.84,148,45.86,534286.23
+Federal,National Science Foundation,280,229463000.0,54826297.45,90,234,38,168.18,144,38.46,609181.08
+Federal,Department of Defense,134,86998000.0,30916148.62,51,112,18,162.25,87,45.54,606198.99
+Federal,Department of Energy,165,122989000.0,30809762.98,51,145,13,162.86,100,35.17,604113.0
+Federal,Department of Agriculture,125,80813000.0,28566065.89,50,107,12,165.45,90,46.73,571321.32
+Industry,Bluegrass Technology Corporation,96,38643000.0,18610500.12,50,81,12,169.2,78,61.73,372210.0
+Federal,Department of Education,82,66657000.0,16185488.94,29,69,8,157.55,68,42.03,558120.31
+Industry,Health Innovation Partners,69,31064000.0,15443740.92,40,60,7,160.42,53,66.67,386093.52
+State,State Research Council,129,35224000.0,15056859.71,62,112,13,157.43,89,55.36,242852.58
+Federal,National Aeronautics and Space Administration,63,45056000.0,14668936.62,28,51,8,168.55,52,54.9,523890.59
+Industry,Advanced Manufacturing Solutions,81,32038000.0,12860518.0,41,72,7,185.47,66,56.94,313671.17
+Federal,Centers for Disease Control and Prevention,88,52521000.0,12666153.51,30,70,11,155.24,70,42.86,422205.12
+Foundation,Future Science Foundation,70,16878000.0,5808518.04,30,62,7,163.89,58,48.39,193617.27
+Foundation,Community Health Foundation,62,14924000.0,5491404.97,21,49,8,155.18,52,42.86,261495.47
+Foundation,Education Advancement Foundation,43,10703000.0,4815618.29,20,36,4,150.81,37,55.56,240780.91
+State,State Department of Public Health,81,18927000.0,4166560.15,27,68,10,165.12,64,39.71,154317.04
+Nonprofit,Regional Research Alliance,47,7450000.0,2693393.17,18,45,2,169.64,44,40.0,149632.95
+Internal,University Research Initiative,43,2986000.0,1524164.83,27,40,1,165.88,39,67.5,56450.55
