@@ -1,0 +1,25 @@
+University Research Analytics Dashboard
+Data Validation Report
+=============================================
+
+Records evaluated: 2,000
+Total validation errors: 0
+
+Validation results:
+- Duplicate Proposal Ids: 0
+- Missing Required Values: 0
+- Invalid Proposal Statuses: 0
+- Invalid Proposal Types: 0
+- Invalid Sponsor Types: 0
+- Invalid College Department Combinations: 0
+- Nonpositive Requested Amounts: 0
+- Awarded Records Without Positive Award: 0
+- Non Awarded Records With Award Amount: 0
+- Cost Reconciliation Errors: 0
+- Decision Dates Before Submission: 0
+- Project End Dates Before Start: 0
+- Pending Records With Decision Dates: 0
+- Decided Records Without Decision Dates: 0
+- Awarded Records Without Project Dates: 0
+
+Validation status: PASSED
