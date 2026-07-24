@@ -1,0 +1,13 @@
+metric_name,metric_value,metric_format
+Total Proposals,2000.0,Whole Number
+Total Requested Funding,1157487000.0,Currency
+Total Awarded Funding,346170200.15,Currency
+Awarded Proposal Count,798.0,Whole Number
+Decided Proposal Count,1703.0,Whole Number
+Pending Proposal Count,224.0,Whole Number
+Withdrawn Proposal Count,73.0,Whole Number
+Proposal Success Rate,46.86,Percentage
+Average Award Amount,433797.24,Currency
+Median Award Amount,317557.92,Currency
+Average Decision Time,164.58,Days
+Active Principal Investigators,180.0,Whole Number
